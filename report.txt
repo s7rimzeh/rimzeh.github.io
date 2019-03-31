@@ -1,0 +1,971 @@
+[ 2019-03-31 20:52:13 ] files_iframe_info.xml NOT YET CREATED
+[ 2019-03-31 20:52:13 ] #################################################################
+[ 2019-03-31 20:52:13 ] ######################   SCRAPING STARTED  ######################
+[ 2019-03-31 20:52:13 ] #################################################################
+[ 2019-03-31 20:52:13 ] Create an empty xml file : files_count.xml
+[ 2019-03-31 20:52:13 ] set_files_count_xml() function
+[ 2019-03-31 20:52:13 ] increment +1
+[ 2019-03-31 20:52:13 ] key = 'scraping_reload' |  value = '1'
+[ 2019-03-31 20:52:13 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:13 ] demo email sent !!!
+[ 2019-03-31 20:52:13 ] Number of running request for this user : 1
+[ 2019-03-31 20:52:13 ] Limit of running request by bulk user : 7
+[ 2019-03-31 20:52:13 ] -------------------------------------------
+[ 2019-03-31 20:52:13 ]  Reading From 'report_to_create_file.txt' 
+[ 2019-03-31 20:52:13 ] -------------------------------------------
+[ 2019-03-31 20:52:13 ] err_msg = file not Exist !!!
+[ 2019-03-31 20:52:13 ] -------------------------------------------
+[ 2019-03-31 20:52:13 ] Front Page is Complete = No
+[ 2019-03-31 20:52:13 ] -------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:13 ] scraping_front_page() Function ...
+[ 2019-03-31 20:52:13 ] archive_url_origine = http://evoulve.com/
+[ 2019-03-31 20:52:13 ] Scraping of front page ( test number 1/3 )
+[ 2019-03-31 20:52:13 ] ---------------------------------------
+[ 2019-03-31 20:52:13 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:13 ] ---------------------------------------
+[ 2019-03-31 20:52:13 ] TEST 1
+[ 2019-03-31 20:52:13 ] URL = http://evoulve.com/
+[ 2019-03-31 20:52:13 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:14 ] useragent = Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20130401 Firefox/21.0
+[ 2019-03-31 20:52:14 ] set_files_count_xml() function
+[ 2019-03-31 20:52:14 ] key = 'final_archive_url' |  value = 'http://evoulve.com/'
+[ 2019-03-31 20:52:14 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:14 ] Final Archive URL = http://evoulve.com/
+[ 2019-03-31 20:52:14 ] -------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:14 ] Create front page row in 'to_create_arr' table
+[ 2019-03-31 20:52:14 ] set_files_count_xml() function
+[ 2019-03-31 20:52:14 ] key = 'html_total' |  value = '1'
+[ 2019-03-31 20:52:14 ] key = 'html_done' |  value = '0'
+[ 2019-03-31 20:52:14 ] key = 'total_size' |  value = '12'
+[ 2019-03-31 20:52:14 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:14 ] ( 0 / 1 )  Done - 0 error pages fixed
+[ 2019-03-31 20:52:14 ] Archive url = http://evoulve.com/
+[ 2019-03-31 20:52:14 ] Website url = evoulve.com/
+[ 2019-03-31 20:52:14 ] No www url = evoulve.com
+[ 2019-03-31 20:52:14 ] Main Domain = evoulve.com
+[ 2019-03-31 20:52:14 ] full archive url = http://evoulve.com/
+[ 2019-03-31 20:52:14 ] archive url = http://evoulve.com/
+[ 2019-03-31 20:52:14 ] subdomain = www
+[ 2019-03-31 20:52:14 ] type( demo or live ) = demo
+[ 2019-03-31 20:52:14 ] max_level = 6
+[ 2019-03-31 20:52:14 ] main folder = evoulve.com_jbentley166_gmail.com_ddkrvef2xoc
+[ 2019-03-31 20:52:14 ] email = jbentley166@gmail.com
+[ 2019-03-31 20:52:14 ] scrape_html_then_files_in_front_page = Yes
+[ 2019-03-31 20:52:14 ] 
+[ 2019-03-31 20:52:14 ] Download PDF = 0
+[ 2019-03-31 20:52:14 ] file_path_index = 
+[ 2019-03-31 20:52:14 ] file_path_without_ext_index = 
+[ 2019-03-31 20:52:14 ] strings_to_replace = 
+[ 2019-03-31 20:52:14 ] remove_broken_outbound_links = 1
+[ 2019-03-31 20:52:14 ] redirect_all_404_to_frontpage = No
+[ 2019-03-31 20:52:14 ] force_work_in_local = Yes
+[ 2019-03-31 20:52:14 ] skip_fix_encoding = Yes
+[ 2019-03-31 20:52:14 ] Use Proxy after first scraping fail = Yes
+[ 2019-03-31 20:52:14 ] scraping_reload number = 1
+[ 2019-03-31 20:52:14 ] max_pages_demo = 10
+[ 2019-03-31 20:52:14 ] max_size_demo = 10000
+[ 2019-03-31 20:52:14 ] ------------------------------------------------------------------
+[ 2019-03-31 20:52:14 ] set_files_count_xml() function
+[ 2019-03-31 20:52:14 ] key = 'html_total' |  value = '1'
+[ 2019-03-31 20:52:14 ] key = 'html_done' |  value = '0'
+[ 2019-03-31 20:52:14 ] key = 'total_size' |  value = '16'
+[ 2019-03-31 20:52:14 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:14 ] ( 0 / 1 )  Done - 0 error pages fixed
+[ 2019-03-31 20:52:14 ] 'index.html' Exist in 'to_create_arr' in the first row ( Completed : No )
+[ 2019-03-31 20:52:14 ] Scraping duration not calculated because front page not created yet
+[ 2019-03-31 20:52:14 ] index.html -> File name found in to_create_arr
+[ 2019-03-31 20:52:14 ] #####################################################################################################
+[ 2019-03-31 20:52:14 ] ###############http://evoulve.com/ ( Scraping  of 1 / 1 )  - 0 error pages fixed###############
+[ 2019-03-31 20:52:14 ] ###############Local URL = index.html (code = 200) ###############
+[ 2019-03-31 20:52:14 ] ###############This is front page###############
+[ 2019-03-31 20:52:14 ] ###############Try number = 1###############
+[ 2019-03-31 20:52:14 ] #####################################################################################################
+[ 2019-03-31 20:52:14 ]  Main level =0
+[ 2019-03-31 20:52:14 ] HTML already scraped ( it's probably a front page )
+[ 2019-03-31 20:52:14 ] Original encoding = UTF-8
+[ 2019-03-31 20:52:14 ] Original encoding is in probably UTF-8= true
+[ 2019-03-31 20:52:14 ] ----------------------------------------
+[ 2019-03-31 20:52:14 ] Not checking the encoding
+[ 2019-03-31 20:52:14 ] Final encoding = UTF-8
+[ 2019-03-31 20:52:14 ] Language = N/A
+[ 2019-03-31 20:52:14 ] set_files_count_xml() function
+[ 2019-03-31 20:52:14 ] key = 'is_pretty_url' |  value = 'false'
+[ 2019-03-31 20:52:14 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:14 ] ###############################################################
+[ 2019-03-31 20:52:14 ] Original Href = http://fleava.com - [( 1/1 )]
+[ 2019-03-31 20:52:14 ] href = http://fleava.com ( is_internal_url = No )
+[ 2019-03-31 20:52:14 ] local_file_path not created yet = index.html
+[ 2019-03-31 20:52:14 ] code = 200
+[ 2019-03-31 20:52:14 ] index.html -> Front page created
+[ 2019-03-31 20:52:14 ] set_files_count_xml() function
+[ 2019-03-31 20:52:14 ] key = 'html_total' |  value = '1'
+[ 2019-03-31 20:52:14 ] key = 'html_done' |  value = '1'
+[ 2019-03-31 20:52:14 ] key = 'total_size' |  value = '28'
+[ 2019-03-31 20:52:14 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:14 ] ( 1 / 1 )  Done - 0 error pages fixed
+[ 2019-03-31 20:52:14 ] index.html ( Front page ) : index.html already created so now I need to scrape all extensions and update the index.html file
+[ 2019-03-31 20:52:14 ] 
+[ 2019-03-31 20:52:14 ] 
+[ 2019-03-31 20:52:14 ] /**************************************************************/
+[ 2019-03-31 20:52:14 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-03-31 20:52:14 ] /*******		From    'index.html'      **********/
+[ 2019-03-31 20:52:14 ] /**************************************************************/
+[ 2019-03-31 20:52:14 ] We still update 'index.html'
+[ 2019-03-31 20:52:14 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-03-31 20:52:14 ] 
+[ 2019-03-31 20:52:14 ] 
+[ 2019-03-31 20:52:14 ] 
+[ 2019-03-31 20:52:14 ] /**************************************************************/
+[ 2019-03-31 20:52:14 ] /*******		Extract 'fonts_from_html' files		**********/
+[ 2019-03-31 20:52:14 ] /*******		From    'index.html'      **********/
+[ 2019-03-31 20:52:14 ] /**************************************************************/
+[ 2019-03-31 20:52:14 ] We still update 'index.html'
+[ 2019-03-31 20:52:14 ] /*******		End : Extract fonts_from_html files		**********/
+[ 2019-03-31 20:52:14 ] 
+[ 2019-03-31 20:52:14 ] 
+[ 2019-03-31 20:52:14 ] 
+[ 2019-03-31 20:52:14 ] /**************************************************************/
+[ 2019-03-31 20:52:14 ] /*******		Extract 'css' files		**********/
+[ 2019-03-31 20:52:14 ] /*******		From    'index.html'      **********/
+[ 2019-03-31 20:52:14 ] /**************************************************************/
+[ 2019-03-31 20:52:14 ] We still update 'index.html'
+[ 2019-03-31 20:52:14 ] file url = http://evoulve.com/assets/css/style.css
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] TEST 1
+[ 2019-03-31 20:52:14 ] URL = http://evoulve.com/assets/css/style.css
+[ 2019-03-31 20:52:14 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:14 ] useragent = Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+[ 2019-03-31 20:52:14 ] 
+[ 2019-03-31 20:52:14 ] 
+[ 2019-03-31 20:52:14 ] /**************************************************************/
+[ 2019-03-31 20:52:14 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-03-31 20:52:14 ] /*******		From    'assets/css/style.css'      **********/
+[ 2019-03-31 20:52:14 ] /*******		folder_path    'assets/css/'      **********/
+[ 2019-03-31 20:52:14 ] /**************************************************************/
+[ 2019-03-31 20:52:14 ] We still update 'index.html'
+[ 2019-03-31 20:52:14 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-03-31 20:52:14 ] 
+[ 2019-03-31 20:52:14 ] 
+[ 2019-03-31 20:52:14 ] 
+[ 2019-03-31 20:52:14 ] /**************************************************************/
+[ 2019-03-31 20:52:14 ] /*******		Extract 'fonts_from_css' files		**********/
+[ 2019-03-31 20:52:14 ] /*******		From    'assets/css/style.css'      **********/
+[ 2019-03-31 20:52:14 ] /*******		folder_path    'assets/css/'      **********/
+[ 2019-03-31 20:52:14 ] /**************************************************************/
+[ 2019-03-31 20:52:14 ] We still update 'index.html'
+[ 2019-03-31 20:52:14 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_A_0.eot
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] TEST 1
+[ 2019-03-31 20:52:14 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_A_0.eot
+[ 2019-03-31 20:52:14 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:14 ] useragent = Mozilla/5.0 (Windows NT 6.2; rv:21.0) Gecko/20130326 Firefox/21.0
+[ 2019-03-31 20:52:14 ] assets/css/assets/fonts/proxima --> Folder Created !!!
+[ 2019-03-31 20:52:14 ] assets/css/assets/fonts/proxima/2B04A9_A_0.eot --> File Created !!!
+[ 2019-03-31 20:52:14 ] set_files_count_xml() function
+[ 2019-03-31 20:52:14 ] increment +1
+[ 2019-03-31 20:52:14 ] key = 'fonts' |  value = '1'
+[ 2019-03-31 20:52:14 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:14 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_A_0.eot (Exist = Yes)
+[ 2019-03-31 20:52:14 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_A_0.eot' WITH 'assets/fonts/proxima/2B04A9_A_0.eot'
+[ 2019-03-31 20:52:14 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:14 ] folder_path = assets/css/
+[ 2019-03-31 20:52:14 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:14 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_A_0.eot?#iefix
+[ 2019-03-31 20:52:14 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_A_0.eot (Exist = Yes)
+[ 2019-03-31 20:52:14 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_A_0.eot?#iefix' WITH 'assets/fonts/proxima/2B04A9_A_0.eot'
+[ 2019-03-31 20:52:14 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:14 ] folder_path = assets/css/
+[ 2019-03-31 20:52:14 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:14 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_A_0.woff
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] TEST 1
+[ 2019-03-31 20:52:14 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_A_0.woff
+[ 2019-03-31 20:52:14 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:14 ] useragent = Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+[ 2019-03-31 20:52:14 ] assets/css/assets/fonts/proxima/2B04A9_A_0.woff --> File Created !!!
+[ 2019-03-31 20:52:14 ] set_files_count_xml() function
+[ 2019-03-31 20:52:14 ] increment +1
+[ 2019-03-31 20:52:14 ] key = 'fonts' |  value = '2'
+[ 2019-03-31 20:52:14 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:14 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_A_0.woff (Exist = Yes)
+[ 2019-03-31 20:52:14 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_A_0.woff' WITH 'assets/fonts/proxima/2B04A9_A_0.woff'
+[ 2019-03-31 20:52:14 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:14 ] folder_path = assets/css/
+[ 2019-03-31 20:52:14 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:14 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_A_0.ttf
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] TEST 1
+[ 2019-03-31 20:52:14 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_A_0.ttf
+[ 2019-03-31 20:52:14 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:14 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0) chromeframe/10.0.648.205
+[ 2019-03-31 20:52:14 ] assets/css/assets/fonts/proxima/2B04A9_A_0.ttf --> File Created !!!
+[ 2019-03-31 20:52:14 ] set_files_count_xml() function
+[ 2019-03-31 20:52:14 ] increment +1
+[ 2019-03-31 20:52:14 ] key = 'fonts' |  value = '3'
+[ 2019-03-31 20:52:14 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:14 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_A_0.ttf (Exist = Yes)
+[ 2019-03-31 20:52:14 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_A_0.ttf' WITH 'assets/fonts/proxima/2B04A9_A_0.ttf'
+[ 2019-03-31 20:52:14 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:14 ] folder_path = assets/css/
+[ 2019-03-31 20:52:14 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:14 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_B_0.eot
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] TEST 1
+[ 2019-03-31 20:52:14 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_B_0.eot
+[ 2019-03-31 20:52:14 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:14 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:12.0) Gecko/20120721 Debian Iceweasel/15.0
+[ 2019-03-31 20:52:14 ] assets/css/assets/fonts/proxima/2B04A9_B_0.eot --> File Created !!!
+[ 2019-03-31 20:52:14 ] set_files_count_xml() function
+[ 2019-03-31 20:52:14 ] increment +1
+[ 2019-03-31 20:52:14 ] key = 'fonts' |  value = '4'
+[ 2019-03-31 20:52:14 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:14 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_B_0.eot (Exist = Yes)
+[ 2019-03-31 20:52:14 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_B_0.eot' WITH 'assets/fonts/proxima/2B04A9_B_0.eot'
+[ 2019-03-31 20:52:14 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:14 ] folder_path = assets/css/
+[ 2019-03-31 20:52:14 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:14 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_B_0.eot?#iefix
+[ 2019-03-31 20:52:14 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_B_0.eot (Exist = Yes)
+[ 2019-03-31 20:52:14 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_B_0.eot?#iefix' WITH 'assets/fonts/proxima/2B04A9_B_0.eot'
+[ 2019-03-31 20:52:14 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:14 ] folder_path = assets/css/
+[ 2019-03-31 20:52:14 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:14 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_B_0.woff
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] TEST 1
+[ 2019-03-31 20:52:14 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_B_0.woff
+[ 2019-03-31 20:52:14 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:14 ] useragent = Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+[ 2019-03-31 20:52:14 ] assets/css/assets/fonts/proxima/2B04A9_B_0.woff --> File Created !!!
+[ 2019-03-31 20:52:14 ] set_files_count_xml() function
+[ 2019-03-31 20:52:14 ] increment +1
+[ 2019-03-31 20:52:14 ] key = 'fonts' |  value = '5'
+[ 2019-03-31 20:52:14 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:14 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_B_0.woff (Exist = Yes)
+[ 2019-03-31 20:52:14 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_B_0.woff' WITH 'assets/fonts/proxima/2B04A9_B_0.woff'
+[ 2019-03-31 20:52:14 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:14 ] folder_path = assets/css/
+[ 2019-03-31 20:52:14 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:14 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_B_0.ttf
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] TEST 1
+[ 2019-03-31 20:52:14 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_B_0.ttf
+[ 2019-03-31 20:52:14 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:14 ] useragent = Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/22.0
+[ 2019-03-31 20:52:14 ] assets/css/assets/fonts/proxima/2B04A9_B_0.ttf --> File Created !!!
+[ 2019-03-31 20:52:14 ] set_files_count_xml() function
+[ 2019-03-31 20:52:14 ] increment +1
+[ 2019-03-31 20:52:14 ] key = 'fonts' |  value = '6'
+[ 2019-03-31 20:52:14 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:14 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_B_0.ttf (Exist = Yes)
+[ 2019-03-31 20:52:14 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_B_0.ttf' WITH 'assets/fonts/proxima/2B04A9_B_0.ttf'
+[ 2019-03-31 20:52:14 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:14 ] folder_path = assets/css/
+[ 2019-03-31 20:52:14 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:14 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_E_0.eot
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] TEST 1
+[ 2019-03-31 20:52:14 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_E_0.eot
+[ 2019-03-31 20:52:14 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:14 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; chromeframe/11.0.696.57)
+[ 2019-03-31 20:52:14 ] assets/css/assets/fonts/proxima/2B04A9_E_0.eot --> File Created !!!
+[ 2019-03-31 20:52:14 ] set_files_count_xml() function
+[ 2019-03-31 20:52:14 ] increment +1
+[ 2019-03-31 20:52:14 ] key = 'fonts' |  value = '7'
+[ 2019-03-31 20:52:14 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:14 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_E_0.eot (Exist = Yes)
+[ 2019-03-31 20:52:14 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_E_0.eot' WITH 'assets/fonts/proxima/2B04A9_E_0.eot'
+[ 2019-03-31 20:52:14 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:14 ] folder_path = assets/css/
+[ 2019-03-31 20:52:14 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:14 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_E_0.eot?#iefix
+[ 2019-03-31 20:52:14 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_E_0.eot (Exist = Yes)
+[ 2019-03-31 20:52:14 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_E_0.eot?#iefix' WITH 'assets/fonts/proxima/2B04A9_E_0.eot'
+[ 2019-03-31 20:52:14 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:14 ] folder_path = assets/css/
+[ 2019-03-31 20:52:14 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:14 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_E_0.woff
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] TEST 1
+[ 2019-03-31 20:52:14 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_E_0.woff
+[ 2019-03-31 20:52:14 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:14 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20130401 Firefox/21.0
+[ 2019-03-31 20:52:14 ] assets/css/assets/fonts/proxima/2B04A9_E_0.woff --> File Created !!!
+[ 2019-03-31 20:52:14 ] set_files_count_xml() function
+[ 2019-03-31 20:52:14 ] increment +1
+[ 2019-03-31 20:52:14 ] key = 'fonts' |  value = '8'
+[ 2019-03-31 20:52:14 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:14 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_E_0.woff (Exist = Yes)
+[ 2019-03-31 20:52:14 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_E_0.woff' WITH 'assets/fonts/proxima/2B04A9_E_0.woff'
+[ 2019-03-31 20:52:14 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:14 ] folder_path = assets/css/
+[ 2019-03-31 20:52:14 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:14 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_E_0.ttf
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:14 ] ---------------------------------------
+[ 2019-03-31 20:52:14 ] TEST 1
+[ 2019-03-31 20:52:14 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_E_0.ttf
+[ 2019-03-31 20:52:14 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:15 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20130401 Firefox/31.0
+[ 2019-03-31 20:52:15 ] assets/css/assets/fonts/proxima/2B04A9_E_0.ttf --> File Created !!!
+[ 2019-03-31 20:52:15 ] set_files_count_xml() function
+[ 2019-03-31 20:52:15 ] increment +1
+[ 2019-03-31 20:52:15 ] key = 'fonts' |  value = '9'
+[ 2019-03-31 20:52:15 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:15 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_E_0.ttf (Exist = Yes)
+[ 2019-03-31 20:52:15 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_E_0.ttf' WITH 'assets/fonts/proxima/2B04A9_E_0.ttf'
+[ 2019-03-31 20:52:15 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:15 ] folder_path = assets/css/
+[ 2019-03-31 20:52:15 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:15 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_C_0.eot
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] TEST 1
+[ 2019-03-31 20:52:15 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_C_0.eot
+[ 2019-03-31 20:52:15 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:15 ] useragent = Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[ 2019-03-31 20:52:15 ] assets/css/assets/fonts/proxima/2B04A9_C_0.eot --> File Created !!!
+[ 2019-03-31 20:52:15 ] set_files_count_xml() function
+[ 2019-03-31 20:52:15 ] increment +1
+[ 2019-03-31 20:52:15 ] key = 'fonts' |  value = '10'
+[ 2019-03-31 20:52:15 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:15 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_C_0.eot (Exist = Yes)
+[ 2019-03-31 20:52:15 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_C_0.eot' WITH 'assets/fonts/proxima/2B04A9_C_0.eot'
+[ 2019-03-31 20:52:15 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:15 ] folder_path = assets/css/
+[ 2019-03-31 20:52:15 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:15 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_C_0.eot?#iefix
+[ 2019-03-31 20:52:15 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_C_0.eot (Exist = Yes)
+[ 2019-03-31 20:52:15 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_C_0.eot?#iefix' WITH 'assets/fonts/proxima/2B04A9_C_0.eot'
+[ 2019-03-31 20:52:15 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:15 ] folder_path = assets/css/
+[ 2019-03-31 20:52:15 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:15 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_C_0.woff
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] TEST 1
+[ 2019-03-31 20:52:15 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_C_0.woff
+[ 2019-03-31 20:52:15 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:15 ] useragent = Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+[ 2019-03-31 20:52:15 ] assets/css/assets/fonts/proxima/2B04A9_C_0.woff --> File Created !!!
+[ 2019-03-31 20:52:15 ] set_files_count_xml() function
+[ 2019-03-31 20:52:15 ] increment +1
+[ 2019-03-31 20:52:15 ] key = 'fonts' |  value = '11'
+[ 2019-03-31 20:52:15 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:15 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_C_0.woff (Exist = Yes)
+[ 2019-03-31 20:52:15 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_C_0.woff' WITH 'assets/fonts/proxima/2B04A9_C_0.woff'
+[ 2019-03-31 20:52:15 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:15 ] folder_path = assets/css/
+[ 2019-03-31 20:52:15 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:15 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_C_0.ttf
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] TEST 1
+[ 2019-03-31 20:52:15 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_C_0.ttf
+[ 2019-03-31 20:52:15 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:15 ] useragent = Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-03-31 20:52:15 ] assets/css/assets/fonts/proxima/2B04A9_C_0.ttf --> File Created !!!
+[ 2019-03-31 20:52:15 ] set_files_count_xml() function
+[ 2019-03-31 20:52:15 ] increment +1
+[ 2019-03-31 20:52:15 ] key = 'fonts' |  value = '12'
+[ 2019-03-31 20:52:15 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:15 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_C_0.ttf (Exist = Yes)
+[ 2019-03-31 20:52:15 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_C_0.ttf' WITH 'assets/fonts/proxima/2B04A9_C_0.ttf'
+[ 2019-03-31 20:52:15 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:15 ] folder_path = assets/css/
+[ 2019-03-31 20:52:15 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:15 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_D_0.eot
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] TEST 1
+[ 2019-03-31 20:52:15 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_D_0.eot
+[ 2019-03-31 20:52:15 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:15 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:15.0) Gecko/20100101 Firefox/15.0 Iceweasel/15.0
+[ 2019-03-31 20:52:15 ] assets/css/assets/fonts/proxima/2B04A9_D_0.eot --> File Created !!!
+[ 2019-03-31 20:52:15 ] set_files_count_xml() function
+[ 2019-03-31 20:52:15 ] increment +1
+[ 2019-03-31 20:52:15 ] key = 'fonts' |  value = '13'
+[ 2019-03-31 20:52:15 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:15 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_D_0.eot (Exist = Yes)
+[ 2019-03-31 20:52:15 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_D_0.eot' WITH 'assets/fonts/proxima/2B04A9_D_0.eot'
+[ 2019-03-31 20:52:15 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:15 ] folder_path = assets/css/
+[ 2019-03-31 20:52:15 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:15 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_D_0.eot?#iefix
+[ 2019-03-31 20:52:15 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_D_0.eot (Exist = Yes)
+[ 2019-03-31 20:52:15 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_D_0.eot?#iefix' WITH 'assets/fonts/proxima/2B04A9_D_0.eot'
+[ 2019-03-31 20:52:15 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:15 ] folder_path = assets/css/
+[ 2019-03-31 20:52:15 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:15 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_D_0.woff
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] TEST 1
+[ 2019-03-31 20:52:15 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_D_0.woff
+[ 2019-03-31 20:52:15 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:15 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20130330 Firefox/21.0
+[ 2019-03-31 20:52:15 ] assets/css/assets/fonts/proxima/2B04A9_D_0.woff --> File Created !!!
+[ 2019-03-31 20:52:15 ] set_files_count_xml() function
+[ 2019-03-31 20:52:15 ] increment +1
+[ 2019-03-31 20:52:15 ] key = 'fonts' |  value = '14'
+[ 2019-03-31 20:52:15 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:15 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_D_0.woff (Exist = Yes)
+[ 2019-03-31 20:52:15 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_D_0.woff' WITH 'assets/fonts/proxima/2B04A9_D_0.woff'
+[ 2019-03-31 20:52:15 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:15 ] folder_path = assets/css/
+[ 2019-03-31 20:52:15 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:15 ] file url = http://evoulve.com/assets/fonts/proxima/2B04A9_D_0.ttf
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] TEST 1
+[ 2019-03-31 20:52:15 ] URL = http://evoulve.com/assets/fonts/proxima/2B04A9_D_0.ttf
+[ 2019-03-31 20:52:15 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:15 ] useragent = Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+[ 2019-03-31 20:52:15 ] assets/css/assets/fonts/proxima/2B04A9_D_0.ttf --> File Created !!!
+[ 2019-03-31 20:52:15 ] set_files_count_xml() function
+[ 2019-03-31 20:52:15 ] increment +1
+[ 2019-03-31 20:52:15 ] key = 'fonts' |  value = '15'
+[ 2019-03-31 20:52:15 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:15 ] local_file_path_rel = assets/css/assets/fonts/proxima/2B04A9_D_0.ttf (Exist = Yes)
+[ 2019-03-31 20:52:15 ] assets/css/style.css : REPLACE '../fonts/proxima/2B04A9_D_0.ttf' WITH 'assets/fonts/proxima/2B04A9_D_0.ttf'
+[ 2019-03-31 20:52:15 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:15 ] folder_path = assets/css/
+[ 2019-03-31 20:52:15 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:15 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-03-31 20:52:15 ] 
+[ 2019-03-31 20:52:15 ] 
+[ 2019-03-31 20:52:15 ] 
+[ 2019-03-31 20:52:15 ] /**************************************************************/
+[ 2019-03-31 20:52:15 ] /*******		Extract 'background_images' files		**********/
+[ 2019-03-31 20:52:15 ] /*******		From    'assets/css/style.css'      **********/
+[ 2019-03-31 20:52:15 ] /*******		folder_path    'assets/css/img'      **********/
+[ 2019-03-31 20:52:15 ] /**************************************************************/
+[ 2019-03-31 20:52:15 ] We still update 'index.html'
+[ 2019-03-31 20:52:15 ] count of background images 2
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_A_0.eot
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_A_0.eot?#iefix
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_A_0.woff
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_A_0.ttf
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_B_0.eot
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_B_0.eot?#iefix
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_B_0.woff
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_B_0.ttf
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_E_0.eot
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_E_0.eot?#iefix
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_E_0.woff
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_E_0.ttf
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_C_0.eot
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_C_0.eot?#iefix
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_C_0.woff
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_C_0.ttf
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_D_0.eot
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_D_0.eot?#iefix
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_D_0.woff
+[ 2019-03-31 20:52:15 ] href_1 =>assets/fonts/proxima/2B04A9_D_0.ttf
+[ 2019-03-31 20:52:15 ] href_1 =>../img/world.jpg
+[ 2019-03-31 20:52:15 ] href_1 =>../img/stars.jpg
+[ 2019-03-31 20:52:15 ] href_1 =>../img/blur.jpg
+[ 2019-03-31 20:52:15 ] file url = http://evoulve.com/assets/img/world.jpg
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] TEST 1
+[ 2019-03-31 20:52:15 ] URL = http://evoulve.com/assets/img/world.jpg
+[ 2019-03-31 20:52:15 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:15 ] useragent = Mozilla/1.22 (compatible; MSIE 10.0; Windows 3.1)
+[ 2019-03-31 20:52:15 ] assets/css/img --> Folder Created !!!
+[ 2019-03-31 20:52:15 ] assets/css/img/world.jpg --> File Created !!!
+[ 2019-03-31 20:52:15 ] set_files_count_xml() function
+[ 2019-03-31 20:52:15 ] increment +1
+[ 2019-03-31 20:52:15 ] key = 'img' |  value = '1'
+[ 2019-03-31 20:52:15 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:15 ] local_file_path_rel = assets/css/img/world.jpg (Exist = Yes)
+[ 2019-03-31 20:52:15 ] assets/css/style.css : REPLACE '../img/world.jpg' WITH 'img/world.jpg'
+[ 2019-03-31 20:52:15 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:15 ] folder_path = assets/css/img
+[ 2019-03-31 20:52:15 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:15 ] file url = http://evoulve.com/assets/img/stars.jpg
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] TEST 1
+[ 2019-03-31 20:52:15 ] URL = http://evoulve.com/assets/img/stars.jpg
+[ 2019-03-31 20:52:15 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:15 ] useragent = Mozilla/5.0 (X11; OpenBSD amd64; rv:28.0) Gecko/20100101 Firefox/28.0
+[ 2019-03-31 20:52:15 ] assets/css/img/stars.jpg --> File Created !!!
+[ 2019-03-31 20:52:15 ] set_files_count_xml() function
+[ 2019-03-31 20:52:15 ] increment +1
+[ 2019-03-31 20:52:15 ] key = 'img' |  value = '2'
+[ 2019-03-31 20:52:15 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:15 ] local_file_path_rel = assets/css/img/stars.jpg (Exist = Yes)
+[ 2019-03-31 20:52:15 ] assets/css/style.css : REPLACE '../img/stars.jpg' WITH 'img/stars.jpg'
+[ 2019-03-31 20:52:15 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:15 ] folder_path = assets/css/img
+[ 2019-03-31 20:52:15 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:15 ] file url = http://evoulve.com/assets/img/blur.jpg
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:15 ] ---------------------------------------
+[ 2019-03-31 20:52:15 ] TEST 1
+[ 2019-03-31 20:52:15 ] URL = http://evoulve.com/assets/img/blur.jpg
+[ 2019-03-31 20:52:15 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:15 ] useragent = Mozilla/5.0 (Windows NT 6.2; rv:21.0) Gecko/20130326 Firefox/21.0
+[ 2019-03-31 20:52:15 ] Code = 404
+[ 2019-03-31 20:52:15 ] HTML found = Yes
+[ 2019-03-31 20:52:15 ]     No sleep!
+[ 2019-03-31 20:52:15 ] ----
+[ 2019-03-31 20:52:15 ] TEST 2
+[ 2019-03-31 20:52:15 ] URL = https://evoulve.com/assets/img/blur.jpg  --> Switch protocol ( Try 'https' )
+[ 2019-03-31 20:52:15 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:33.0) Gecko/20100101 Firefox/33.0
+[ 2019-03-31 20:52:16 ] Code = 0
+[ 2019-03-31 20:52:16 ] HTML found = No
+[ 2019-03-31 20:52:16 ]     No sleep!
+[ 2019-03-31 20:52:16 ] ----
+[ 2019-03-31 20:52:16 ] TEST 3
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/img/blur.jpg
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36
+[ 2019-03-31 20:52:16 ] Code = 404
+[ 2019-03-31 20:52:16 ] HTML found = Yes
+[ 2019-03-31 20:52:16 ]     No sleep!
+[ 2019-03-31 20:52:16 ] ----
+[ 2019-03-31 20:52:16 ] This is a broken image :../img/blur.jpg
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/css/img/blur.jpg (Exist = No)
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] /*******		End : Extract background_images files		**********/
+[ 2019-03-31 20:52:16 ] 
+[ 2019-03-31 20:52:16 ] assets/css/style.css --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'css' |  value = '1'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/css/style.css (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] /*******		End : Extract css files		**********/
+[ 2019-03-31 20:52:16 ] 
+[ 2019-03-31 20:52:16 ] 
+[ 2019-03-31 20:52:16 ] 
+[ 2019-03-31 20:52:16 ] /**************************************************************/
+[ 2019-03-31 20:52:16 ] /*******		Extract 'img' files		**********/
+[ 2019-03-31 20:52:16 ] /*******		From    'index.html'      **********/
+[ 2019-03-31 20:52:16 ] /**************************************************************/
+[ 2019-03-31 20:52:16 ] We still update 'index.html'
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/img/icons/apple-icon-57x57.png
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/img/icons/apple-icon-57x57.png
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+[ 2019-03-31 20:52:16 ] assets/img/icons --> Folder Created !!!
+[ 2019-03-31 20:52:16 ] assets/img/icons/apple-icon-57x57.png --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'img' |  value = '3'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/img/icons/apple-icon-57x57.png (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/img/icons/apple-icon-60x60.png
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/img/icons/apple-icon-60x60.png
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:15.0) Gecko/20100101 Firefox/15.0.1 Iceweasel/15.0.1
+[ 2019-03-31 20:52:16 ] assets/img/icons/apple-icon-60x60.png --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'img' |  value = '4'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/img/icons/apple-icon-60x60.png (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/img/icons/apple-icon-72x72.png
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/img/icons/apple-icon-72x72.png
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7
+[ 2019-03-31 20:52:16 ] assets/img/icons/apple-icon-72x72.png --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'img' |  value = '5'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/img/icons/apple-icon-72x72.png (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/img/icons/apple-icon-76x76.png
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/img/icons/apple-icon-76x76.png
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:25.0) Gecko/20100101 Firefox/25.0
+[ 2019-03-31 20:52:16 ] assets/img/icons/apple-icon-76x76.png --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'img' |  value = '6'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/img/icons/apple-icon-76x76.png (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/img/icons/apple-icon-114x114.png
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/img/icons/apple-icon-114x114.png
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
+[ 2019-03-31 20:52:16 ] assets/img/icons/apple-icon-114x114.png --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'img' |  value = '7'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/img/icons/apple-icon-114x114.png (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/img/icons/apple-icon-120x120.png
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/img/icons/apple-icon-120x120.png
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:14.0) Gecko/20100101 Firefox/14.0.1 Iceweasel/14.0.1
+[ 2019-03-31 20:52:16 ] assets/img/icons/apple-icon-120x120.png --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'img' |  value = '8'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/img/icons/apple-icon-120x120.png (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/img/icons/apple-icon-144x144.png
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/img/icons/apple-icon-144x144.png
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36
+[ 2019-03-31 20:52:16 ] assets/img/icons/apple-icon-144x144.png --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'img' |  value = '9'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/img/icons/apple-icon-144x144.png (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/img/icons/apple-icon-152x152.png
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/img/icons/apple-icon-152x152.png
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A
+[ 2019-03-31 20:52:16 ] assets/img/icons/apple-icon-152x152.png --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'img' |  value = '10'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/img/icons/apple-icon-152x152.png (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/img/icons/apple-icon-180x180.png
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/img/icons/apple-icon-180x180.png
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+[ 2019-03-31 20:52:16 ] assets/img/icons/apple-icon-180x180.png --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'img' |  value = '11'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/img/icons/apple-icon-180x180.png (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/img/icons/android-icon-192x192.png
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/img/icons/android-icon-192x192.png
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+[ 2019-03-31 20:52:16 ] assets/img/icons/android-icon-192x192.png --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'img' |  value = '12'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/img/icons/android-icon-192x192.png (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/img/icons/favicon-32x32.png
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/img/icons/favicon-32x32.png
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/23.0
+[ 2019-03-31 20:52:16 ] assets/img/icons/favicon-32x32.png --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'img' |  value = '13'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/img/icons/favicon-32x32.png (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/img/icons/favicon-96x96.png
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/img/icons/favicon-96x96.png
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:14.0) Gecko/20100101 Firefox/14.0.1 Iceweasel/14.0.1
+[ 2019-03-31 20:52:16 ] assets/img/icons/favicon-96x96.png --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'img' |  value = '14'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/img/icons/favicon-96x96.png (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/img/icons/favicon-16x16.png
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/img/icons/favicon-16x16.png
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:28.0) Gecko/20100101 Firefox/28.0
+[ 2019-03-31 20:52:16 ] assets/img/icons/favicon-16x16.png --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'img' |  value = '15'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/img/icons/favicon-16x16.png (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] /*******		End : Extract img files		**********/
+[ 2019-03-31 20:52:16 ] 
+[ 2019-03-31 20:52:16 ] 
+[ 2019-03-31 20:52:16 ] 
+[ 2019-03-31 20:52:16 ] /**************************************************************/
+[ 2019-03-31 20:52:16 ] /*******		Extract 'background_images' files		**********/
+[ 2019-03-31 20:52:16 ] /*******		From    'index.html'      **********/
+[ 2019-03-31 20:52:16 ] /**************************************************************/
+[ 2019-03-31 20:52:16 ] We still update 'index.html'
+[ 2019-03-31 20:52:16 ] count of background images 2
+[ 2019-03-31 20:52:16 ] /*******		End : Extract background_images files		**********/
+[ 2019-03-31 20:52:16 ] 
+[ 2019-03-31 20:52:16 ] 
+[ 2019-03-31 20:52:16 ] 
+[ 2019-03-31 20:52:16 ] /**************************************************************/
+[ 2019-03-31 20:52:16 ] /*******		Extract 'background_images_in_html' files		**********/
+[ 2019-03-31 20:52:16 ] /*******		From    'index.html'      **********/
+[ 2019-03-31 20:52:16 ] /**************************************************************/
+[ 2019-03-31 20:52:16 ] We still update 'index.html'
+[ 2019-03-31 20:52:16 ] /*******		End : Extract background_images_in_html files		**********/
+[ 2019-03-31 20:52:16 ] 
+[ 2019-03-31 20:52:16 ] 
+[ 2019-03-31 20:52:16 ] 
+[ 2019-03-31 20:52:16 ] /**************************************************************/
+[ 2019-03-31 20:52:16 ] /*******		Extract 'script' files		**********/
+[ 2019-03-31 20:52:16 ] /*******		From    'index.html'      **********/
+[ 2019-03-31 20:52:16 ] /**************************************************************/
+[ 2019-03-31 20:52:16 ] We still update 'index.html'
+[ 2019-03-31 20:52:16 ] From get_href_arr_javascript_from_html() func (pushed) >> href = assets/img/icons/manifest.json
+[ 2019-03-31 20:52:16 ] file url = https://www.googletagmanager.com/gtag/js?id=UA-20462557-9
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = https://www.googletagmanager.com/gtag/js?id=UA-20462557-9
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; .NET4.0C; Tablet PC 2.0)
+[ 2019-03-31 20:52:16 ] gtag --> Folder Created !!!
+[ 2019-03-31 20:52:16 ] gtag/js_id_UA-20462557-9.js --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'js' |  value = '1'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = gtag/js_id_UA-20462557-9.js (Exist = Yes)
+[ 2019-03-31 20:52:16 ] index.html : REPLACE 'https://www.googletagmanager.com/gtag/js?id=UA-20462557-9' WITH 'gtag/js_id_UA-20462557-9.js'
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/js/jquery-1.9.1.min.js
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/js/jquery-1.9.1.min.js
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:16 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; da-dk) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1
+[ 2019-03-31 20:52:16 ] assets/js --> Folder Created !!!
+[ 2019-03-31 20:52:16 ] assets/js/jquery-1.9.1.min.js --> File Created !!!
+[ 2019-03-31 20:52:16 ] set_files_count_xml() function
+[ 2019-03-31 20:52:16 ] increment +1
+[ 2019-03-31 20:52:16 ] key = 'js' |  value = '2'
+[ 2019-03-31 20:52:16 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:16 ] local_file_path_rel = assets/js/jquery-1.9.1.min.js (Exist = Yes)
+[ 2019-03-31 20:52:16 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:16 ] folder_path = 
+[ 2019-03-31 20:52:16 ] Page updated = index.html
+[ 2019-03-31 20:52:16 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:16 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:16 ] file url = http://evoulve.com/assets/js/scripts.js
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:16 ] ---------------------------------------
+[ 2019-03-31 20:52:16 ] TEST 1
+[ 2019-03-31 20:52:16 ] URL = http://evoulve.com/assets/js/scripts.js
+[ 2019-03-31 20:52:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:17 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:15.0) Gecko/20120724 Debian Iceweasel/15.0
+[ 2019-03-31 20:52:17 ] assets/js/scripts.js --> File Created !!!
+[ 2019-03-31 20:52:17 ] set_files_count_xml() function
+[ 2019-03-31 20:52:17 ] increment +1
+[ 2019-03-31 20:52:17 ] key = 'js' |  value = '3'
+[ 2019-03-31 20:52:17 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:17 ] local_file_path_rel = assets/js/scripts.js (Exist = Yes)
+[ 2019-03-31 20:52:17 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:17 ] folder_path = 
+[ 2019-03-31 20:52:17 ] Page updated = index.html
+[ 2019-03-31 20:52:17 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:17 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:17 ] file url = http://evoulve.com/assets/img/icons/manifest.json
+[ 2019-03-31 20:52:17 ] ---------------------------------------
+[ 2019-03-31 20:52:17 ] get_curl_live() function : Start
+[ 2019-03-31 20:52:17 ] ---------------------------------------
+[ 2019-03-31 20:52:17 ] TEST 1
+[ 2019-03-31 20:52:17 ] URL = http://evoulve.com/assets/img/icons/manifest.json
+[ 2019-03-31 20:52:17 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-31 20:52:17 ] useragent = Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0
+[ 2019-03-31 20:52:17 ] assets/img/icons/manifest.js --> File Created !!!
+[ 2019-03-31 20:52:17 ] set_files_count_xml() function
+[ 2019-03-31 20:52:17 ] increment +1
+[ 2019-03-31 20:52:17 ] key = 'js' |  value = '4'
+[ 2019-03-31 20:52:17 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:17 ] local_file_path_rel = assets/img/icons/manifest.js (Exist = Yes)
+[ 2019-03-31 20:52:17 ] index.html : REPLACE 'assets/img/icons/manifest.json' WITH 'assets/img/icons/manifest.js'
+[ 2019-03-31 20:52:17 ] update_html_file_path = index.html
+[ 2019-03-31 20:52:17 ] folder_path = 
+[ 2019-03-31 20:52:17 ] Page updated = index.html
+[ 2019-03-31 20:52:17 ] index.html ( Front page ) : update index.html
+[ 2019-03-31 20:52:17 ] -------------------------------------------------------------------------------------------
+[ 2019-03-31 20:52:17 ] /*******		End : Extract script files		**********/
+[ 2019-03-31 20:52:17 ] 
+[ 2019-03-31 20:52:17 ] 
+[ 2019-03-31 20:52:17 ] 
+[ 2019-03-31 20:52:17 ] /**************************************************************/
+[ 2019-03-31 20:52:17 ] /*******		Extract 'swf' files		**********/
+[ 2019-03-31 20:52:17 ] /*******		From    'index.html'      **********/
+[ 2019-03-31 20:52:17 ] /**************************************************************/
+[ 2019-03-31 20:52:17 ] We still update 'index.html'
+[ 2019-03-31 20:52:17 ] /*******		End : Extract swf files		**********/
+[ 2019-03-31 20:52:17 ] 
+[ 2019-03-31 20:52:17 ] index.html --> HTML File Created !!!
+[ 2019-03-31 20:52:17 ] ----------------------------------------------------------------------
+[ 2019-03-31 20:52:17 ] update  to_create_arr[0][is_done] = 1
+[ 2019-03-31 20:52:17 ] set_files_count_xml() function
+[ 2019-03-31 20:52:17 ] key = 'html_total' |  value = '1'
+[ 2019-03-31 20:52:17 ] key = 'html_done' |  value = '1'
+[ 2019-03-31 20:52:17 ] key = 'total_size' |  value = '3076'
+[ 2019-03-31 20:52:17 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:17 ] ( 1 / 1 )  Done - 0 error pages fixed
+[ 2019-03-31 20:52:17 ] create_zip_file_and_send_email() function
+[ 2019-03-31 20:52:17 ] set_files_count_xml() function
+[ 2019-03-31 20:52:17 ] key = 'html_total' |  value = '1'
+[ 2019-03-31 20:52:17 ] key = 'html_done' |  value = '1'
+[ 2019-03-31 20:52:17 ] key = 'total_size' |  value = '3076'
+[ 2019-03-31 20:52:17 ] ----------------------------------------------------------
+[ 2019-03-31 20:52:17 ] ( 1 / 1 )  Done - 0 error pages fixed
+[ 2019-03-31 20:52:17 ] Total Size : 3076
+[ 2019-03-31 20:52:18 ] files/demo/evoulve.com_jbentley166_gmail.com_ddkrvef2xoc_backup.zip ZIP Created !!!
+[ 2019-03-31 20:52:18 ] Error occured when sending email !!!
+[ 2019-03-31 20:52:18 ] Final demo email sent!
+[ 2019-03-31 20:52:18 ] Loading Time = 00:00:07
